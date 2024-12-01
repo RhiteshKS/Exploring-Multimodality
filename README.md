@@ -1,15 +1,6 @@
 # Exploring Multimodality and Its Applications
 
-## Overview
 This project implements a **Multimodal Retrieval-Augmented Generation (RAG) System** designed to process and integrate text, images, audio, video, and tables. By leveraging diverse data formats, the system enhances the accuracy and relevance of generated responses for a wide range of applications.
-
-## Motivation
-Traditional text-based RAG systems struggle to utilize non-textual data, resulting in incomplete or less informed outputs. With the rapid growth of multimodal data, this project bridges the gap by developing a system capable of understanding and generating outputs across multiple formats.
-
-## Features
-- **Multimodal Summarization:** Combine insights from text, images, audio, and video to generate concise summaries.
-- **Visual Question Answering:** Answer questions based on image and text inputs.
-- **Multimodal Retrieval:** Search for videos, images, or tables based on textual queries.
 
 ## Datasets
 The system utilizes the following datasets:
